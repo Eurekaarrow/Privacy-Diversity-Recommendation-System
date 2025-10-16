@@ -1,8 +1,8 @@
 # Privacy-Diversity-Recommendation-System
 
-# Dataset - MovieLens 25M Dataset Summary
+## Dataset - MovieLens 25M Dataset Summary
 
-## Summary
+### Summary
 
 This dataset (**ml-25m**) describes 5-star rating and free-text tagging activity from [MovieLens](https://movielens.org), a movie recommendation service.  
 It contains **25,000,095 ratings** and **1,093,360 tag applications** across **62,423 movies**.  
@@ -20,7 +20,7 @@ All datasets are publicly available for download at:
 
 ---
 
-## Usage License
+### Usage License
 
 The dataset may be used for research purposes under the following conditions:
 
@@ -36,7 +36,7 @@ For questions or comments, contact:
 
 ---
 
-## Citation
+### Citation
 
 If you use this dataset, please cite:
 
@@ -47,7 +47,7 @@ If you use this dataset, please cite:
 
 ---
 
-## About GroupLens
+### About GroupLens
 
 GroupLens is a research group in the **Department of Computer Science and Engineering** at the **University of Minnesota**.  
 Since 1992, its projects have explored:
@@ -65,8 +65,6 @@ Visit: [http://movielens.org](http://movielens.org)
 If you have ideas for experimental work using MovieLens, email **grouplens-info@cs.umn.edu**.
 
 ---
-
-## Content and Use of Files
 
 ### ✅ Verifying Dataset Contents
 
